@@ -732,7 +732,7 @@ BADA AYOMIDE SAMUEL
 
 This project represents part of my transition into Data Analytics, applying analytical thinking, data visualization, and Business Intelligence techniques to a real-world healthcare scenario.
 
-* Skills Demonstrated
+## Skills Demonstrated
 * Data Cleaning
 * Power Query
 * Data Modeling
